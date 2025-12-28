@@ -1,6 +1,6 @@
 # Literalura - Book Catalog
 
-![Literalura Screenshot](screenshot.png)
+![Literalura Screenshot](./src/assets/captura.png)
 
 **Literalura** is a Single Page Application (SPA) designed as a digital book catalog with a vintage, classic aesthetic. It allows users to search for books, explore authors, and filter content based on languages or historical periods.
 
